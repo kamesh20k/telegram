@@ -1,5 +1,5 @@
 # Taking kilometers input from the user
-kilometers = float(input("Enter your values in kilometers: "))
+kilometers = int(input("Enter your values in kilometers: "))
 
 # conversion factor
 conv_fac = 0.6
